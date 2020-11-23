@@ -20,7 +20,8 @@
 # 安装主题
 去官网下载主题  https://themes.gohugo.io  
 我下载的是even  https://themes.gohugo.io/hugo-theme-even  
-cd /blog  
+ cd /blog  
+ git init 
 git clone https://github.com/olOwOlo/hugo-theme-even themes/even  
 安装好后 打开D:\blog\themes\even\exampleSite  
 找到config.toml和content 复制到D:\blog目录下  
@@ -29,8 +30,7 @@ hugo --theme=even --baseUrl="ch0769.github.io" --buildDrafts
  #even改成你的主题 ch0769.github.io也改成你的网址  
  出现 public 文件夹  cd /public  
  依次输入  
- git init  
- git add .  
+git add -A
  git commit -m "yyyy/mm/dd-hh:mm"  
  git remote add origin https://github.com/ch0769/ch0769.github.io.git   
  git push -u origin master
