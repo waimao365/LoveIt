@@ -3,7 +3,7 @@
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
             <loc>https://waimao8.eu.org/about/</loc><lastmod>2017-08-28T21:41:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://waimao8.eu.org/categories/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://waimao8.eu.org/categories/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://waimao8.eu.org/en/categories/"
@@ -16,17 +16,15 @@
                     hreflang="zh-cn"
                     href="https://waimao8.eu.org/categories/"
                     /></url><url>
-            <loc>https://waimao8.eu.org/tags/docker/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://waimao8.eu.org/categories/docker/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://waimao8.eu.org/tags/home-assistant/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://waimao8.eu.org/categories/home-assistant/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://waimao8.eu.org/tags/n1/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://waimao8.eu.org/categories/n1/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://waimao8.eu.org/posts/23.html/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://waimao8.eu.org/tags/openwrt/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://waimao8.eu.org/categories/openwrt/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://waimao8.eu.org/posts/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://waimao8.eu.org/tags/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://waimao8.eu.org/tags/even/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waimao8.eu.org/categories/even/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waimao8.eu.org/tags/hugo/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waimao8.eu.org/categories/hugo/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waimao8.eu.org/posts/hugo%E6%96%87%E7%AB%A0%E6%A0%BC%E5%BC%8F.html/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waimao8.eu.org/tags/loveit/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waimao8.eu.org/categories/loveit/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waimao8.eu.org/posts/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waimao8.eu.org/tags/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://waimao8.eu.org/en/tags/"
@@ -39,7 +37,7 @@
                     hreflang="zh-cn"
                     href="https://waimao8.eu.org/tags/"
                     /></url><url>
-            <loc>https://waimao8.eu.org/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://waimao8.eu.org/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://waimao8.eu.org/en/"
@@ -52,12 +50,19 @@
                     hreflang="zh-cn"
                     href="https://waimao8.eu.org/"
                     /></url><url>
+            <loc>https://waimao8.eu.org/tags/docker/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://waimao8.eu.org/categories/docker/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://waimao8.eu.org/tags/home-assistant/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://waimao8.eu.org/categories/home-assistant/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://waimao8.eu.org/tags/n1/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://waimao8.eu.org/categories/n1/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://waimao8.eu.org/posts/23.html/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://waimao8.eu.org/tags/openwrt/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://waimao8.eu.org/categories/openwrt/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/tags/%E5%AE%9D%E5%A1%94/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/categories/%E5%AE%9D%E5%A1%94/</loc><lastmod>2020-06-02T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/tags/github/</loc><lastmod>2020-06-01T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/categories/github/</loc><lastmod>2020-06-01T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://waimao8.eu.org/tags/hugo/</loc><lastmod>2020-06-01T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://waimao8.eu.org/categories/hugo/</loc><lastmod>2020-06-01T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/posts/22.html/</loc><lastmod>2020-06-01T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/tags/%E7%BD%91%E7%AB%99/</loc><lastmod>2020-06-01T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/categories/%E7%BD%91%E7%AB%99/</loc><lastmod>2020-06-01T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -158,6 +163,7 @@
             <loc>https://waimao8.eu.org/tags/%E5%8D%9A%E5%AE%A2/</loc><lastmod>2019-09-09T19:21:48&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/posts/1.html/</loc><lastmod>2019-09-09T14:37:42&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/categories/%E5%8D%9A%E5%AE%A2/</loc><lastmod>2019-09-09T14:37:42&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://waimao8.eu.org/posts/.html/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/tags/it%E8%BD%AF%E4%BB%B6/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/posts/18.html/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/tags/content/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
