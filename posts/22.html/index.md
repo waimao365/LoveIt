@@ -13,7 +13,7 @@
 系统变量和用户变量都添加D:\hugo\bin  
 下载Git https://git-scm.com  并安装  
 下载Go语言开发环境 https://golang.org/dl  并安装
-打开Git Bash 输入 hugo version 出现hugo static site generator相关信息表示安装完成  
+打开Git Bash 输入 hugo version 出现hugo static site generator相关信息表示安装完成了  
 打开D盘 右键点击 git bash here  
 输入hugo new site blog
  
