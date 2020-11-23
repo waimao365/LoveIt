@@ -13,8 +13,8 @@ tags:
   - hugo
   - 标签
   - 博客
-abbrlink: 23
-slug: 23
+abbrlink: 25
+slug: 25
 ---
 
 ```
@@ -26,8 +26,8 @@ title: "文章标题"
 date: 2020-11-23T22:33:32+08:00
 categories: ["category","category2","category3"]
 tags: ["tag","tag2","tag3"]
-abbrlink: 23
-slug: 23
+abbrlink: 25
+slug: 25
 ---
 ```
 # 下面解释下为什么会加入abbrlink和slug参数
