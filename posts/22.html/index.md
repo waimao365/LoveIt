@@ -35,7 +35,8 @@ hugo --theme=even --baseUrl="ch0769.github.io" --buildDrafts
  git commit -m "yyyy/mm/dd-hh:mm"  
  git remote add origin https://github.com/ch0769/ch0769.github.io.git   
  git push -u origin master
- 后面更新 git push
+ 
+ 后面更新直接输入 git push
 
 cd /blog  
 hugo  
