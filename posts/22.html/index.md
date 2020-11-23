@@ -31,7 +31,7 @@ hugo --theme=even --baseUrl="ch0769.github.io" --buildDrafts
  #even改成你的主题 ch0769.github.io也改成你的网址  
  出现 public 文件夹  cd /public  
  依次输入  
-git add -A
+ git add -A
  git commit -m "yyyy/mm/dd-hh:mm"  
  git remote add origin https://github.com/ch0769/ch0769.github.io.git   
  git push -u origin master
