@@ -30,19 +30,18 @@ abbrlink: 25
 slug: 25
 ---
 ```
-# 下面解释下为什么会加入abbrlink和slug参数
 
-## hexo和hugo统一固定链接，方便互转
+# hexo和hugo统一固定链接，方便互转
 显示链接如下
-https://163168.xyz/posts/23.html/
+https://163168.xyz/posts/25.html/
 
 在文章头部加入
 
-abbrlink: 23是指hexo的固定链接
+abbrlink: 25是指hexo的固定链接
 
-slug: 23是指hugo的固定链接
+slug: 25是指hugo的固定链接
 
-hugo主题even在站点配置文件里适当的位置加上下面的代码
+## hugo主题even在站点配置文件里适当的位置加上下面的代码
 
 ```
 ---
@@ -58,7 +57,7 @@ hugo主题LoveIt 搜索Permalinks 改成下面这样就可以了
    posts = "/posts/:slug.html"
 ---
 ```
-hexo固定链接
+## hexo固定链接
 
 查找 
 
