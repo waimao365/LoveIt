@@ -16,7 +16,7 @@
 打开Git Bash 输入 hugo version 出现hugo static site generator相关信息表示安装完成了  
 打开D盘 右键点击 git bash here  
 输入hugo new site blog
- 
+
 # 安装主题
 去官网下载主题  https://themes.gohugo.io  
 我下载的是even  https://themes.gohugo.io/hugo-theme-even  
@@ -35,7 +35,7 @@ hugo --theme=even --baseUrl="ch0769.github.io" --buildDrafts
  git commit -m "yyyy/mm/dd-hh:mm"  
  git remote add origin https://github.com/ch0769/ch0769.github.io.git   
  git push -u origin master
- 
+
  后面更新直接输入 git push
 
 cd /blog  
@@ -48,7 +48,7 @@ hugo new post\hugo搭建和使用教程.md
 可以下载Visual Studio Code编辑和修改文章，记得换行前要先打两个空格，再按回车键。 
 #  hugo使用教程
 ##  添加固定链接  
- 
+
 这篇教程的加法参考如下  
 title: hugo搭建和使用教程  
 date: 2020-06-01 15:55:32  
