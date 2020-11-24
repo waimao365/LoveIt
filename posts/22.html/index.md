@@ -61,7 +61,7 @@ git push origin master 或者 git push
 
 ```
 #!/bin/sh
-hugo -t LoveIt # 我使用的是even主题，所以是 -t LoveIt
+hugo -t LoveIt # 我使用的是LoveIt主题，所以是 -t LoveIt
 cd  /c/hugo/LoveIt/public  #这个目录请改成你自己的
 git add .
 git commit -m "zidong"
