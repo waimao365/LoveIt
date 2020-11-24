@@ -31,7 +31,7 @@ git clone https://github.com/dillonzq/LoveIt.git themes/LoveIt
 
 LoveIt 访问速度比even稍微慢些，但是要好看些，放两张图大家看下
 
-![image-20201125015845893](C:\Users\chenan\AppData\Roaming\Typora\typora-user-images\image-20201125015845893.png)
+![](https://cdn.jsdelivr.net/gh/waimao365/tu@master/20201125020449.png)
 
 ![](https://cdn.jsdelivr.net/gh/waimao365/tu@master/20201125020025.png)
 
