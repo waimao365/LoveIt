@@ -2,6 +2,71 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://waimao8.eu.org/posts/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3-%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://waimao8.eu.org/en/posts/theme-documentation-basics.html/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://waimao8.eu.org/fr/posts/th%C3%A8me-documentation-concepts-de-base.html/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://waimao8.eu.org/posts/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3-%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html/"
+                    /></url><url>
+            <loc>https://waimao8.eu.org/posts/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3-%E5%86%85%E5%AE%B9.html/</loc><lastmod>2020-03-05T16:30:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://waimao8.eu.org/en/posts/theme-documentation-content.html/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://waimao8.eu.org/fr/posts/th%C3%A8me-documentation-contenu.html/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://waimao8.eu.org/posts/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3-%E5%86%85%E5%AE%B9.html/"
+                    /></url><url>
+            <loc>https://waimao8.eu.org/posts/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3-%E6%89%A9%E5%B1%95-shortcodes.html/</loc><lastmod>2020-03-03T16:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://waimao8.eu.org/en/posts/theme-documentation-extended-shortcodes.html/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://waimao8.eu.org/fr/posts/th%C3%A8me-documentation-extended-shortcodes.html/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://waimao8.eu.org/posts/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3-%E6%89%A9%E5%B1%95-shortcodes.html/"
+                    /></url><url>
+            <loc>https://waimao8.eu.org/posts/markdown-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.html/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://waimao8.eu.org/en/posts/basic-markdown-syntax.html/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://waimao8.eu.org/fr/posts/syntaxe-de-markdown-de-base.html/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://waimao8.eu.org/posts/markdown-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.html/"
+                    /></url><url>
+            <loc>https://waimao8.eu.org/posts/emoji-%E6%94%AF%E6%8C%81.html/</loc><lastmod>2019-10-01T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://waimao8.eu.org/en/posts/emoji-support.html/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://waimao8.eu.org/fr/posts/emoji-support.html/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://waimao8.eu.org/posts/emoji-%E6%94%AF%E6%8C%81.html/"
+                    /></url><url>
             <loc>https://waimao8.eu.org/about/</loc><lastmod>2017-08-28T21:41:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/categories/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
@@ -23,7 +88,19 @@
             <loc>https://waimao8.eu.org/posts/25.html/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://waimao8.eu.org/tags/loveit/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://waimao8.eu.org/categories/loveit/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://waimao8.eu.org/posts/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://waimao8.eu.org/posts/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://waimao8.eu.org/en/posts/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://waimao8.eu.org/fr/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://waimao8.eu.org/posts/"
+                    /></url><url>
             <loc>https://waimao8.eu.org/tags/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -75,6 +152,84 @@
             <loc>https://waimao8.eu.org/categories/%E5%88%B7%E6%9C%BA/</loc><lastmod>2020-03-23T15:18:30&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/tags/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA/</loc><lastmod>2020-03-23T15:18:30&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/categories/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA/</loc><lastmod>2020-03-23T15:18:30&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://waimao8.eu.org/tags/installation/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://waimao8.eu.org/en/tags/installation/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://waimao8.eu.org/fr/tags/installation/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://waimao8.eu.org/tags/installation/"
+                    /></url><url>
+            <loc>https://waimao8.eu.org/categories/documentation/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://waimao8.eu.org/en/categories/documentation/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://waimao8.eu.org/fr/categories/documentation/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://waimao8.eu.org/categories/documentation/"
+                    /></url><url>
+            <loc>https://waimao8.eu.org/tags/configuration/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://waimao8.eu.org/en/tags/configuration/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://waimao8.eu.org/fr/tags/configuration/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://waimao8.eu.org/tags/configuration/"
+                    /></url><url>
+            <loc>https://waimao8.eu.org/tags/markdown/</loc><lastmod>2020-03-05T16:30:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://waimao8.eu.org/en/tags/markdown/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://waimao8.eu.org/fr/tags/markdown/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://waimao8.eu.org/tags/markdown/"
+                    /></url><url>
+            <loc>https://waimao8.eu.org/tags/content/</loc><lastmod>2020-03-05T16:30:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://waimao8.eu.org/en/tags/content/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://waimao8.eu.org/fr/tags/content/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://waimao8.eu.org/tags/content/"
+                    /></url><url>
+            <loc>https://waimao8.eu.org/tags/shortcodes/</loc><lastmod>2020-03-03T16:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://waimao8.eu.org/en/tags/shortcodes/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://waimao8.eu.org/fr/tags/shortcodes/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://waimao8.eu.org/tags/shortcodes/"
+                    /></url><url>
             <loc>https://waimao8.eu.org/tags/cloudflare/</loc><lastmod>2020-01-03T13:10:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/categories/cloudflare/</loc><lastmod>2020-01-03T13:10:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/tags/k2p/</loc><lastmod>2020-01-03T13:10:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -147,6 +302,45 @@
             <loc>https://waimao8.eu.org/tags/typecho/</loc><lastmod>2019-12-08T18:28:42&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/categories/typecho/</loc><lastmod>2019-12-08T18:28:42&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/posts/7.html/</loc><lastmod>2019-12-08T18:28:42&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://waimao8.eu.org/tags/html/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://waimao8.eu.org/en/tags/html/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://waimao8.eu.org/fr/tags/html/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://waimao8.eu.org/tags/html/"
+                    /></url><url>
+            <loc>https://waimao8.eu.org/categories/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://waimao8.eu.org/en/categories/markdown/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://waimao8.eu.org/fr/categories/markdown/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://waimao8.eu.org/categories/markdown/"
+                    /></url><url>
+            <loc>https://waimao8.eu.org/tags/emoji/</loc><lastmod>2019-10-01T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://waimao8.eu.org/en/tags/emoji/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://waimao8.eu.org/fr/tags/emoji/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://waimao8.eu.org/tags/emoji/"
+                    /></url><url>
             <loc>https://waimao8.eu.org/tags/homeassistant/</loc><lastmod>2019-09-16T12:52:42&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/tags/%E6%96%90%E8%AE%AFdc1/</loc><lastmod>2019-09-16T12:52:42&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/posts/6.html/</loc><lastmod>2019-09-16T12:52:42&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -166,31 +360,7 @@
             <loc>https://waimao8.eu.org/posts/.html/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/tags/it%E8%BD%AF%E4%BB%B6/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/posts/18.html/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://waimao8.eu.org/tags/content/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://waimao8.eu.org/fr/tags/content/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://waimao8.eu.org/tags/content/"
-                    /></url><url>
-            <loc>https://waimao8.eu.org/tags/installation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://waimao8.eu.org/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://waimao8.eu.org/en/categories/documentation/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://waimao8.eu.org/fr/categories/documentation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://waimao8.eu.org/categories/documentation/"
-                    /></url><url>
             <loc>https://waimao8.eu.org/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/categories/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://waimao8.eu.org/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD%E4%B8%8D%E9%99%90%E9%80%9F/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://waimao8.eu.org/posts/10.html/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://waimao8.eu.org/tags/configuration/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://waimao8.eu.org/posts/10.html/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

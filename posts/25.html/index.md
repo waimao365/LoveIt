@@ -1,6 +1,6 @@
 # Hugo文章格式和固定链接
 
-# hexo文章格式
+## hexo文章格式
 ```
 ---
 title: 文章标题
@@ -16,10 +16,10 @@ tags:
 abbrlink: 25
 slug: 25
 ---
-
 ```
 
-#  hugo文章格式
+
+## hugo文章格式
 ```
 ---
 title: "文章标题"
@@ -31,7 +31,7 @@ slug: 25
 ---
 ```
 
-#  hexo和hugo统一固定链接，方便互转
+##  hexo和hugo统一固定链接，方便互转
 显示链接如下
 https://163168.xyz/posts/25.html/
 
@@ -41,7 +41,7 @@ abbrlink: 25是指hexo的固定链接
 
 slug: 25是指hugo的固定链接
 
-##  hugo主题even在站点配置文件里适当的位置加上下面的代码
+###  hugo主题even在站点配置文件里适当的位置加上下面的代码
 
 ```
 ---
@@ -49,7 +49,7 @@ slug: 25是指hugo的固定链接
   posts = "/posts/:slug.html"
 ---
 ```
-hugo主题LoveIt 搜索Permalinks 改成下面这样就可以了
+### hugo主题LoveIt 搜索Permalinks 改成下面这样就可以了
 ```
 ---
 [Permalinks]
@@ -57,7 +57,7 @@ hugo主题LoveIt 搜索Permalinks 改成下面这样就可以了
    posts = "/posts/:slug.html"
 ---
 ```
-##  hexo固定链接
+###  hexo固定链接
 
 查找 
 

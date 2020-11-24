@@ -1,10 +1,9 @@
-# 图床搭建的最佳选择 PicGo + Github + Jsdelivr免费公用CDN加速.
+# 图床搭建的最佳选择 PicGo + Github + Jsdelivr免费公用CDN加速+Snipaste截图软件.
 
 
 
 
-
-**图床搭建的最佳选择 PicGo + Github + Jsdelivr免费公用CDN加速**
+**图床搭建的最佳选择 PicGo + Github + Jsdelivr免费公用CDN加速+Snipaste截图软件**
 
 # Github创建仓库
 
@@ -52,6 +51,16 @@ https://cdn.jsdelivr.net/gh/waimao8/image@master
 记得点设为默认图床哦！
 
 # 顺便介绍下这篇文件的制作过程
+## 2020.11.25更新
+
+截图用Snipaste，F1就可以截图编辑了
+
+写博客改用Typora,非常好用！
+
+![](https://cdn.jsdelivr.net/gh/waimao365/tu@master/20201125002923.png)
+
+当然下面的也可以使用
+
 打开 http://marxi.co/
 登陆微信
 默认截图的快捷键ctrl+win+A，选择截图后，
@@ -61,4 +70,3 @@ https://cdn.jsdelivr.net/gh/waimao8/image@master
 笔记本屏幕太小，我外接了显示器，发现点击shift+win+p后，上次图片失败，
 ![](https://cdn.jsdelivr.net/gh/waimao8/image@master/20191213175553.png)百度了一下相关的教程
 打开mac的系统偏好设置，点击显示器，点击颜色，选择普通RGB描述文件，就可以了。
-
