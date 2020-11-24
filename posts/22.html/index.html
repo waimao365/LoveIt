@@ -34,7 +34,7 @@
                             "url": "https:\/\/waimao8.eu.org\/images\/Apple-Devices-Preview.png",
                             "width":  3200 ,
                             "height":  2048 
-                        }],"genre": "posts","keywords": "hugo, 网站, github","wordcount":  1304 ,
+                        }],"genre": "posts","keywords": "hugo, 网站, github","wordcount":  1294 ,
         "url": "https:\/\/waimao8.eu.org\/posts\/22.html\/","datePublished": "2020-06-01T15:55:32+00:00","dateModified": "2020-06-01T15:55:32+00:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": "东莞外贸货批发","logo": {
@@ -120,7 +120,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">hugo搭建和使用教程</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>东莞外贸</a></span>&nbsp;<span class="post-category">收录于 <a href="/categories/hugo/"><i class="far fa-folder fa-fw"></i>hugo</a>&nbsp;<a href="/categories/%E7%BD%91%E7%AB%99/"><i class="far fa-folder fa-fw"></i>网站</a>&nbsp;<a href="/categories/github/"><i class="far fa-folder fa-fw"></i>Github</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-06-01">2020-06-01</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;约 1304 字&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-06-01">2020-06-01</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;约 1294 字&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;预计阅读 3 分钟&nbsp;<span id="/posts/22.html/" class="leancloud_visitors" data-flag-title="hugo搭建和使用教程">
                         <i class="far fa-eye fa-fw"></i>&nbsp;<span class=leancloud-visitors-count></span>&nbsp;次阅读
                     </span>&nbsp;</div>
@@ -131,12 +131,11 @@
                 </div>
                 <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
   <ul>
-    <li><a href="#添加固定链接">添加固定链接</a></li>
     <li><a href="#写文章后部署">写文章后部署</a></li>
-    <li><a href="#netlify-自动编译部署生成-web-网站">Netlify 自动编译部署生成 Web 网站</a></li>
+    <li><a href="#vercel和netlify-自动编译部署生成-web-网站">Vercel和Netlify 自动编译部署生成 Web 网站</a></li>
     <li><a href="#快速在netlify建立jekyllhexohugo静态博客">快速在Netlify建立Jekyll、Hexo、Hugo静态博客</a></li>
     <li><a href="#写文章日期格式">写文章日期格式</a></li>
-    <li><a href="#从hexo导入文章到hugo的固定链接设置">从hexo导入文章到hugo的固定链接设置</a></li>
+    <li><a href="#hugo文章置顶">hugo文章置顶</a></li>
     <li><a href="#绑定域名">绑定域名</a></li>
   </ul>
 </nav></div>
@@ -182,35 +181,42 @@ hugo server<br>
 会在D:\blog\content\post  hugo搭建和使用教程.md<br>
 可以下载Visual Studio Code编辑和修改文章，记得换行前要先打两个空格，再按回车键。</p>
 <h1 id="hugo使用教程">hugo使用教程</h1>
-<h2 id="添加固定链接">添加固定链接</h2>
-<p>这篇教程的加法参考如下<br>
-title: hugo搭建和使用教程<br>
-date: 2020-06-01 15:55:32<br>
-url: /hugodajian.html<br>
-（hugodajian 可以改成数字或者任意字母）</p>
 <h2 id="写文章后部署">写文章后部署</h2>
 <p>在blog目录输入hugo<br>
 在blog/public目录依次输入<br>
 git add .<br>
 git commit -m &ldquo;yyyy/mm/dd-hh:mm&rdquo;<br>
-git push -u origin master</p>
-<h2 id="netlify-自动编译部署生成-web-网站">Netlify 自动编译部署生成 Web 网站</h2>
+git push origin master 或者 git push</p>
+<p>偷个懒，新建文件 deploy.sh放hugo根目录，加入如下代码，每次写完文章，点击一下就自动上传了，非常方便</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="cp">#!/bin/sh
+</span><span class="cp"></span>hugo -t LoveIt <span class="c1"># 我使用的是even主题，所以是 -t LoveIt</span>
+<span class="nb">cd</span>  /c/hugo/LoveIt/public  <span class="c1">#这个目录请改成你自己的</span>
+git add .
+git commit -m <span class="s2">&#34;zidong&#34;</span>
+git push
+</code></pre></td></tr></table>
+</div>
+</div><h2 id="vercel和netlify-自动编译部署生成-web-网站">Vercel和Netlify 自动编译部署生成 Web 网站</h2>
+<p>官方首页：https://vercel.com/</p>
 <p>官方首页：https://www.netlify.com</p>
+<p>vercel访问速度非常快</p>
 <h2 id="快速在netlify建立jekyllhexohugo静态博客">快速在Netlify建立Jekyll、Hexo、Hugo静态博客</h2>
 <p>网站首页：https://www.staticgen.com/<br>
 教程可以看这里 <a href="https://kuleyu.github.io/hexolog/post/31808.html">https://kuleyu.github.io/hexolog/post/31808.html</a></p>
 <h2 id="写文章日期格式">写文章日期格式</h2>
 <p>date: 2020-06-01 15:55:32</p>
-<h2 id="从hexo导入文章到hugo的固定链接设置">从hexo导入文章到hugo的固定链接设置</h2>
-<p>hexo设置 permalink: posts/:abbrlink.html<br>
-文章页面设置 abbrlink: 1   （每篇文章加一个数）<br>
-hugo固定链接设置<br>
-文章里面的<br>
-abbrlink: 1<br>
-改成<br>
-url: /posts/1.html<br>
-域名从hexo解析到hugo后，固定链接是不变的<br>
-也可以不用阿拉伯数字，随便输入其他字母也是可以的，这个看个人喜欢了。</p>
+<h2 id="hugo文章置顶">hugo文章置顶</h2>
+<p>在头部加上 weight: 1</p>
 <h2 id="绑定域名">绑定域名</h2>
 <p>绑域名非常简单，大家可以翻我前面的教程。<br>
 这里发现一个问题<br>
