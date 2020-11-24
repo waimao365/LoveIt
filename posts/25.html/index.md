@@ -69,5 +69,4 @@ permalink: archives/:abbrlink.html
 
 写文章加上 abbrlink: 1（数字越大的，就是越新的文章）
 
-
-
+### 我这种固定链接文章合适好像是通用的，没有改任何头部文件，暂时没有发现什么问题

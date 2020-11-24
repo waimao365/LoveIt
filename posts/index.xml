@@ -4,6 +4,13 @@
         <link>https://waimao8.eu.org/posts/</link>
         <description>所有文章 | 东莞外贸鞋批发</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 23 Nov 2020 22:34:42 &#43;0800</lastBuildDate><atom:link href="https://waimao8.eu.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Hugo文章格式和固定链接</title>
+    <link>https://waimao8.eu.org/posts/25.html/</link>
+    <pubDate>Mon, 23 Nov 2020 22:34:42 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://waimao8.eu.org/posts/25.html/</guid>
+    <description><![CDATA[hexo文章格式 1 2 3 4 5 6 7 8 9 10 11 12 13 14 --- title: 文章标题 date: 2020-11-23 22:33:32 categories: - hugo - 分类 - 博客 tags: - hugo - 标签 - 博客 abbrlink: 25 slug: 25 --- hugo文章格式 1 2 3 4 5 6 7 8]]></description>
+</item><item>
     <title>主题文档 - 基本概念</title>
     <link>https://waimao8.eu.org/posts/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3-%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html/</link>
     <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate>
@@ -38,13 +45,6 @@
     <author>作者</author>
     <guid>https://waimao8.eu.org/posts/emoji-%E6%94%AF%E6%8C%81.html/</guid>
     <description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用.</p>]]></description>
-</item><item>
-    <title>Hugo文章格式和固定链接</title>
-    <link>https://waimao8.eu.org/posts/25.html/</link>
-    <pubDate>Mon, 23 Nov 2020 22:34:42 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://waimao8.eu.org/posts/25.html/</guid>
-    <description><![CDATA[hexo文章格式 1 2 3 4 5 6 7 8 9 10 11 12 13 14 --- title: 文章标题 date: 2020-11-23 22:33:32 categories: - hugo - 分类 - 博客 tags: - hugo - 标签 - 博客 abbrlink: 25 slug: 25 --- hugo文章格式 1 2 3 4 5 6 7 8]]></description>
 </item><item>
     <title>n1终极玩法Armbian-5.77安装docker宝塔openwrt和HomeAssistant</title>
     <link>https://waimao8.eu.org/posts/23.html/</link>

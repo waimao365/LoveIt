@@ -2,6 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://waimao8.eu.org/posts/25.html/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://waimao8.eu.org/posts/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3-%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.html/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -85,7 +86,6 @@
             <loc>https://waimao8.eu.org/categories/even/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://waimao8.eu.org/tags/hugo/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://waimao8.eu.org/categories/hugo/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://waimao8.eu.org/posts/25.html/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://waimao8.eu.org/tags/loveit/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://waimao8.eu.org/categories/loveit/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://waimao8.eu.org/posts/</loc><lastmod>2020-11-23T22:34:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
